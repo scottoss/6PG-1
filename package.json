@@ -17,9 +17,9 @@
   "author": "ADAMJR#0001",
   "license": "ISC",
   "dependencies": {
-    "@2pg/music": "^1.1.2",
-    "@2pg/oauth": "^1.0.6",
-    "@discordjs/opus": "^0.4.0",
+    "@2pg/music": "https://github.com/scottoss/2pg.git",
+    "@2pg/oauth": "*",
+    "@discordjs/opus": "*",
     "@types/axios": "^0.14.0",
     "@types/chai": "^4.2.10",
     "@types/chai-as-promised": "^7.1.2",
